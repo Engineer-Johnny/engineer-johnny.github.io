@@ -1,6 +1,6 @@
-# baseURL = "https://engineer-johnny.github.io/jbosscafe/"
+baseURL = "https://engineer-johnny.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "JBossCafe --- Johnny's Blog"
 theme = "papermod"
 
 [Params]

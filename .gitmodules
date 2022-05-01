@@ -1,0 +1,3 @@
+[submodule "themes/listed"]
+	path = themes/listed
+	url = gh:ronv/listed.git
