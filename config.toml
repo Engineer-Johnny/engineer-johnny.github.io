@@ -1,0 +1,9 @@
+# baseURL = "https://engineer-johnny.github.io/jbosscafe/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "papermod"
+
+[Params]
+# busuanzi
+busuanzi = true
+busuanzi_site_offset = 100000
