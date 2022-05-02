@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.jbosscafe.com/categories/</loc>
+    <loc>https://blog.jbosscafe.com/</loc>
+    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.jbosscafe.com/</loc>
+    <loc>https://blog.jbosscafe.com/post/</loc>
+    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jbosscafe.com/post/third/</loc>
+    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jbosscafe.com/post/second/</loc>
+    <lastmod>2022-05-01T23:07:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jbosscafe.com/post/first/</loc>
+    <lastmod>2022-05-01T22:50:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.jbosscafe.com/categories/</loc>
   </url>
   
   <url>
