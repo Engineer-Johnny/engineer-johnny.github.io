@@ -1,4 +1,4 @@
-baseURL = "https://engineer-johnny.github.io"
+baseURL = "https://blog.jbosscafe.com/"
 languageCode = "en-us"
 title = "JBossCafe --- Johnny's Blog"
 theme = "papermod"
