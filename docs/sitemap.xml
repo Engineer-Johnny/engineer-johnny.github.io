@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.jbosscafe.com/post/book-notes%E7%BD%91%E7%BB%9C%E6%98%AF%E6%80%8E%E6%A0%B7%E8%BF%9E%E6%8E%A5%E7%9A%84/</loc>
+    <lastmod>2022-11-29T23:12:04+08:00</lastmod>
+  </url><url>
     <loc>https://blog.jbosscafe.com/</loc>
-    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-11-29T23:12:04+08:00</lastmod>
+  </url><url>
     <loc>https://blog.jbosscafe.com/post/</loc>
-    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.jbosscafe.com/post/third/</loc>
-    <lastmod>2022-05-01T23:09:23+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.jbosscafe.com/post/second/</loc>
-    <lastmod>2022-05-01T23:07:52+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.jbosscafe.com/post/first/</loc>
-    <lastmod>2022-05-01T22:50:09+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-11-29T23:12:04+08:00</lastmod>
+  </url><url>
     <loc>https://blog.jbosscafe.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.jbosscafe.com/tags/</loc>
   </url>
-  
 </urlset>
